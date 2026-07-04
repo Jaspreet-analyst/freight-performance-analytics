@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Segment,Industry,Annual_Shipment_Volume,Annual_Spend_USD,Retention_Score,Churn_Risk,Primary_Origin,Primary_Destination,Preferred_Carrier,Contract_Filed,Years_As_Customer,NPS_Score,Last_Complaint
+CUS0001,Walmart Canada,Enterprise,Food & Beverage,155,4533708.54,90.8,Low,Kaohsiung,Toronto,HMM,Yes,8,-49,Poor Communication
+CUS0002,Canadian Tire,Mid-Market,Food & Beverage,59,2737280.78,91.8,Low,Colombo,Halifax,Evergreen,Yes,4,19,Routing Issue
+CUS0003,Home Depot Canada,SMB,Food & Beverage,13,3648488.75,69.1,Medium,Hamburg,Los Angeles,HMM,No,1,50,None
+CUS0004,Best Buy Canada,Enterprise,Manufacturing,92,4347571.64,81.5,Low,Ningbo,Toronto,Hapag-Lloyd,Yes,6,4,Routing Issue
+CUS0005,Loblaw Companies,Mid-Market,Food & Beverage,53,1463457.42,87.3,Low,Rotterdam,Chicago,MSC,Yes,1,88,Late Delivery
+CUS0006,Hudson Bay,Mid-Market,Retail,38,3795742.7,81.9,Low,Busan,New York,Maersk,No,3,11,High Cost
+CUS0007,Costco Canada,SMB,Manufacturing,95,2378666.52,55.6,High,Singapore,Houston,CMA CGM,No,10,-21,None
+CUS0008,IKEA Canada,Enterprise,Retail,209,4651547.13,55.3,High,Kaohsiung,Miami,Yang Ming,No,4,-31,None
+CUS0009,Empire Company,Enterprise,Technology,102,4266436.87,84.2,Low,Kaohsiung,Vancouver,HMM,Yes,6,86,Routing Issue
+CUS0010,Shoppers Drug Mart,Mid-Market,Technology,18,161995.54,74.8,Medium,Rotterdam,Seattle,MSC,Yes,6,67,None
+CUS0011,Mountain Equipment,Enterprise,Automotive,272,4830821.28,58.6,High,Singapore,Halifax,COSCO,Yes,8,61,None
+CUS0012,Sport Chek,Mid-Market,Retail,51,1466748.42,91.7,Low,Hamburg,New York,ZIM,No,10,47,Poor Communication
+CUS0013,Indigo Books,Enterprise,Manufacturing,303,2488994.67,91.7,Low,Hong Kong,Chicago,ONE,Yes,15,20,None
+CUS0014,Giant Tiger,Enterprise,Retail,314,1282644.65,96.5,Low,Rotterdam,Seattle,COSCO,Yes,12,71,None
+CUS0015,Sobeys,SMB,Retail,67,1541754.35,88.9,Low,Rotterdam,New York,Hapag-Lloyd,No,10,44,Routing Issue
+CUS0016,Metro Inc,Mid-Market,Automotive,64,1720877.36,98.8,Low,Hamburg,Chicago,Hapag-Lloyd,Yes,4,-20,None
+CUS0017,Reitmans,Enterprise,Automotive,211,4759300.05,55.9,High,Ningbo,New York,Evergreen,No,8,20,None
+CUS0018,Groupe Touchette,Mid-Market,Technology,22,1214667.5,90.8,Low,Ningbo,Chicago,Maersk,No,9,-18,Poor Communication
+CUS0019,Aldo Group,Enterprise,Manufacturing,77,3225561.31,77.1,Medium,Hamburg,Vancouver,Maersk,No,5,70,Routing Issue
+CUS0020,Dollarama,SMB,Retail,53,1337144.11,59.0,High,Hamburg,Vancouver,MSC,Yes,8,-32,None
+CUS0021,Leon Furniture,Enterprise,Automotive,127,4750715.65,57.3,High,Shenzhen,New York,MSC,No,13,56,None
+CUS0022,The Brick,Enterprise,Food & Beverage,447,4551671.45,75.6,Medium,Singapore,Halifax,Yang Ming,Yes,10,-35,None
+CUS0023,Sleep Country,Enterprise,Manufacturing,440,1396766.01,60.2,High,Shenzhen,Los Angeles,Evergreen,Yes,9,-31,High Cost
+CUS0024,Winners,Enterprise,Automotive,259,2402571.15,72.1,Medium,Shanghai,New York,Hapag-Lloyd,No,5,66,Late Delivery
+CUS0025,HomeSense,Enterprise,Automotive,185,3339796.91,88.6,Low,Busan,Miami,MSC,No,4,-12,Poor Communication
+CUS0026,Roots Canada,Enterprise,Technology,86,3015715.78,52.9,High,Kaohsiung,Chicago,ZIM,Yes,8,27,None
+CUS0027,Lululemon,SMB,Food & Beverage,44,2245018.43,74.5,Medium,Kaohsiung,Toronto,Yang Ming,No,6,14,Late Delivery
+CUS0028,Canada Goose,Enterprise,Automotive,167,2976902.37,97.1,Low,Shanghai,Chicago,HMM,Yes,13,-6,Routing Issue
+CUS0029,Tilley Endurables,SMB,Automotive,45,2235836.44,58.9,High,Hamburg,Vancouver,ZIM,Yes,7,35,Poor Communication
+CUS0030,Cineplex,Enterprise,Food & Beverage,489,3499001.0,57.9,High,Singapore,Miami,COSCO,Yes,8,-28,Poor Communication
+CUS0031,Maple Leaf Foods,Mid-Market,Food & Beverage,51,4338061.86,55.7,High,Shanghai,Montreal,ZIM,Yes,1,-2,None
+CUS0032,McCain Foods,Mid-Market,Food & Beverage,89,3823953.63,87.1,Low,Busan,Chicago,COSCO,Yes,15,23,Routing Issue
+CUS0033,Tim Hortons Supply,SMB,Automotive,25,4016637.29,51.4,High,Ningbo,Chicago,COSCO,Yes,9,54,Late Delivery
+CUS0034,Recipe Unlimited,Enterprise,Food & Beverage,480,4740597.64,94.7,Low,Ningbo,Seattle,Hapag-Lloyd,No,12,19,Routing Issue
+CUS0035,MTY Group,SMB,Automotive,70,808745.65,61.9,High,Busan,Halifax,COSCO,No,15,-16,None
+CUS0036,Linamar Corporation,Enterprise,Food & Beverage,191,1765388.69,87.9,Low,Colombo,Chicago,Maersk,Yes,12,26,None
+CUS0037,Magna International,SMB,Food & Beverage,29,1791107.31,71.9,Medium,Colombo,Montreal,Yang Ming,Yes,15,32,None
+CUS0038,Martinrea International,Enterprise,Food & Beverage,407,1244455.99,61.7,High,Rotterdam,Toronto,ONE,No,8,47,Routing Issue
+CUS0039,ABC Technologies,Enterprise,Manufacturing,303,2561226.64,97.3,Low,Kaohsiung,Houston,MSC,Yes,2,84,Routing Issue
+CUS0040,Ventra Industries,Enterprise,Manufacturing,419,466658.42,57.1,High,Singapore,Houston,HMM,No,7,-30,None
+CUS0041,Rogers Communications,Mid-Market,Food & Beverage,96,4775284.0,92.1,Low,Hamburg,Montreal,Maersk,No,2,10,None
+CUS0042,Bell Canada,Mid-Market,Food & Beverage,39,4893854.87,86.6,Low,Shenzhen,Seattle,CMA CGM,No,5,-43,Late Delivery
+CUS0043,Telus,Mid-Market,Technology,17,2210365.26,64.4,High,Busan,Montreal,Yang Ming,No,11,-4,High Cost
+CUS0044,Shaw Communications,Enterprise,Food & Beverage,90,3136580.81,79.9,Medium,Busan,Seattle,HMM,Yes,4,68,None
+CUS0045,Air Canada Cargo,Mid-Market,Retail,68,4504651.81,62.5,High,Hamburg,Chicago,COSCO,Yes,2,63,Poor Communication
+CUS0046,Purolator,Mid-Market,Technology,91,2338495.48,97.1,Low,Singapore,New York,Yang Ming,Yes,2,10,Routing Issue
+CUS0047,Canada Post,Mid-Market,Technology,83,207504.03,64.5,High,Rotterdam,Chicago,Maersk,No,14,-38,None
+CUS0048,A&W Supply Chain,SMB,Manufacturing,46,3074618.49,88.0,Low,Hong Kong,New York,Evergreen,No,5,-15,None
+CUS0049,Groupe Touchette,Enterprise,Technology,371,3964191.37,81.7,Low,Shanghai,Halifax,ONE,No,3,-27,Poor Communication
+CUS0050,Saputo Inc,Mid-Market,Manufacturing,63,3953912.77,58.6,High,Hong Kong,Montreal,COSCO,Yes,14,-8,Poor Communication

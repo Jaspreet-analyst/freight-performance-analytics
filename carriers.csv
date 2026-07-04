@@ -1,0 +1,11 @@
+Carrier_ID,Carrier_Name,Alliance,Service_Level,Avg_Transit_Days,On_Time_Rate_Pct,Reliability_Score,Contract_Rate_20GP,Contract_Rate_40GP,Contract_Rate_40HC,Free_Days_Allowed,Negotiated_Contract,Contract_Expiry,Global_Capacity_TEUS
+CAR001,Maersk,2M Alliance,Economy,18,86.5,68.4,1838.17,1987.74,1848.84,14,Yes,2024-01-31,892986
+CAR002,MSC,Independent,Premium,34,74.3,88.1,1642.83,2746.99,3290.05,14,No,2024-10-11,3894997
+CAR003,CMA CGM,THE Alliance,Premium,42,93.2,70.1,1928.15,3075.53,2350.63,5,Yes,2024-04-09,2005668
+CAR004,Evergreen,Independent,Premium,37,92.6,69.1,1170.33,1504.28,2648.56,10,No,2025-09-25,4213853
+CAR005,Hapag-Lloyd,2M Alliance,Premium,36,93.0,90.5,1069.2,1566.93,3153.16,5,Yes,2024-10-11,2401740
+CAR006,ONE,2M Alliance,Economy,29,86.4,88.2,1027.72,2252.65,3175.44,7,No,2024-09-07,1185359
+CAR007,Yang Ming,2M Alliance,Premium,26,81.4,87.6,2185.33,2936.0,2892.37,5,Yes,2025-02-14,1622986
+CAR008,ZIM,Independent,Premium,36,69.9,78.1,2026.91,2155.23,3138.6,10,Yes,2024-09-09,3624710
+CAR009,COSCO,Ocean Alliance,Economy,26,84.3,76.9,1845.82,2428.24,2958.83,14,Yes,2024-02-18,4111727
+CAR010,HMM,Independent,Economy,38,71.2,77.7,1023.97,3033.15,2991.02,10,No,2024-01-12,3353315

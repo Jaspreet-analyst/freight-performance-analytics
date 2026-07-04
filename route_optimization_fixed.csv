@@ -1,0 +1,31 @@
+Optimization_ID,Trade_Lane,Origin_Port,Destination_Port,Old_Route_Type,Old_Transshipment_Ports,Old_Num_Transshipments,Old_Transit_Days,Old_Freight_Rate_USD,Old_Carrier,New_Route_Type,New_Transshipment_Ports,New_Num_Transshipments,New_Transit_Days,New_Freight_Rate_USD,New_Carrier,Transit_Days_Saved,Cost_Saved_Per_Container_USD,Monthly_Volume_Containers,Projected_Annual_Saving_USD,Contract_Filed,Negotiation_Status,Customer_Satisfaction_Before,Customer_Satisfaction_After,Satisfaction_Improvement_Pct,Implementation_Date
+OPT0001,Rotterdam -> New York,Rotterdam,New York,Transshipment,Singapore + Salalah,2,30,1894.71,Yang Ming,Direct,None,0,22,2155.23,ZIM,8,-260.52,49,0,No,Completed,57.8,71.6,13.8,2023-02-08
+OPT0002,Rotterdam -> Los Angeles,Rotterdam,Los Angeles,Transshipment,Colombo,1,33,1669.7,Hapag-Lloyd,Direct,None,0,29,3033.15,HMM,4,-1363.45,6,0,Yes,Completed,66.3,90.4,24.1,2024-06-18
+OPT0003,Shanghai -> Montreal,Shanghai,Montreal,Transshipment,Port Klang,1,29,1463.3,ZIM,Direct,None,0,20,2746.99,MSC,9,-1283.69,21,0,Yes,Completed,69.2,89.2,20.0,2023-07-22
+OPT0004,Kaohsiung -> Vancouver,Kaohsiung,Vancouver,Transshipment,Salalah + Colombo,2,37,2199.39,Maersk,Direct,None,0,29,2936.0,Yang Ming,8,-736.61,5,0,Yes,Completed,63.8,75.5,11.7,2023-06-21
+OPT0005,Ningbo -> New York,Ningbo,New York,Transshipment,Tanjung Pelepas,1,42,3180.19,Evergreen,Direct,None,0,31,3075.53,CMA CGM,11,104.66,28,35165.76,No,Completed,58.4,73.2,14.8,2023-07-12
+OPT0006,Shenzhen -> Los Angeles,Shenzhen,Los Angeles,Transshipment,Colombo + Port Klang,2,21,3326.84,CMA CGM,Direct,None,0,15,1566.93,Hapag-Lloyd,6,1759.91,10,211189.2,No,Completed,64.0,76.8,12.8,2023-12-21
+OPT0007,Hamburg -> Miami,Hamburg,Miami,Transshipment,Port Klang,1,31,2451.26,Maersk,Direct,None,0,23,1566.93,Hapag-Lloyd,8,884.33,9,95507.64,Yes,Pending,64.8,78.8,14.0,2023-09-11
+OPT0008,Singapore -> Miami,Singapore,Miami,Transshipment,Hong Kong,1,35,1147.33,Hapag-Lloyd,Direct,None,0,30,2155.23,ZIM,5,-1007.9,44,0,No,Completed,55.7,77.3,21.6,2023-04-27
+OPT0009,Shenzhen -> Montreal,Shenzhen,Montreal,Transshipment,Port Klang,1,37,2096.31,HMM,Direct,None,0,30,2155.23,ZIM,7,-58.92,17,0,No,Pending,67.3,80.5,13.2,2023-04-16
+OPT0010,Kaohsiung -> Seattle,Kaohsiung,Seattle,Transshipment,Salalah,1,31,3169.18,ONE,Direct,None,0,24,1987.74,Maersk,7,1181.44,39,552913.92,Yes,Completed,58.3,77.1,18.8,2023-05-20
+OPT0011,Shanghai -> Chicago,Shanghai,Chicago,Transshipment,Salalah,1,34,1742.53,Yang Ming,Direct,None,0,23,1987.74,Maersk,11,-245.21,29,0,Yes,Pending,60.7,74.9,14.2,2023-09-23
+OPT0012,Busan -> Chicago,Busan,Chicago,Transshipment,Tanjung Pelepas,1,33,2054.72,ONE,Direct,None,0,21,2155.23,ZIM,12,-100.51,40,0,Yes,In Progress,71.3,87.0,15.7,2023-12-28
+OPT0013,Colombo -> Houston,Colombo,Houston,Transshipment,Colombo,1,32,2809.76,Hapag-Lloyd,Direct,None,0,21,1987.74,Maersk,11,822.02,48,473483.52,Yes,Completed,56.6,79.6,23.0,2023-12-31
+OPT0014,Hong Kong -> New York,Hong Kong,New York,Transshipment,Singapore,1,27,1560.73,CMA CGM,Direct,None,0,22,2155.23,ZIM,5,-594.5,5,0,No,Pending,72.6,91.3,18.7,2023-05-03
+OPT0015,Shanghai -> Vancouver,Shanghai,Vancouver,Transshipment,Port Klang + Colombo,2,36,1423.52,MSC,Direct,None,0,24,1987.74,Maersk,12,-564.22,14,0,Yes,Completed,65.4,84.8,19.4,2024-06-25
+OPT0016,Hong Kong -> Houston,Hong Kong,Houston,Transshipment,Singapore + Hong Kong,2,32,2599.47,Evergreen,Direct,None,0,25,3075.53,CMA CGM,7,-476.06,25,0,Yes,Pending,68.7,80.8,12.1,2023-12-12
+OPT0017,Colombo -> Halifax,Colombo,Halifax,Transshipment,Salalah,1,33,2141.53,HMM,Direct,None,0,28,3033.15,HMM,5,-891.62,12,0,No,Completed,65.7,90.2,24.5,2023-12-24
+OPT0018,Singapore -> New York,Singapore,New York,Transshipment,Singapore,1,29,2809.98,Maersk,Direct,None,0,18,3075.53,CMA CGM,11,-265.55,38,0,Yes,Completed,72.1,94.2,22.1,2023-01-16
+OPT0019,Busan -> Toronto,Busan,Toronto,Transshipment,Hong Kong,1,35,1892.51,COSCO,Direct,None,0,28,2936.0,Yang Ming,7,-1043.49,36,0,Yes,Completed,59.4,69.6,10.2,2023-08-21
+OPT0020,Hamburg -> Houston,Hamburg,Houston,Transshipment,Singapore + Port Klang,2,42,1399.9,Yang Ming,Direct,None,0,30,2428.24,COSCO,12,-1028.34,38,0,No,Pending,60.8,72.4,11.6,2024-04-20
+OPT0021,Rotterdam -> Miami,Rotterdam,Miami,Transshipment,Tanjung Pelepas + Colombo,2,27,3405.99,MSC,Direct,None,0,19,2936.0,Yang Ming,8,469.99,42,236874.96,No,Completed,57.8,78.1,20.3,2023-01-18
+OPT0022,Kaohsiung -> New York,Kaohsiung,New York,Transshipment,Port Klang + Salalah,2,28,3213.42,HMM,Direct,None,0,18,2252.65,ONE,10,960.77,5,57646.2,Yes,Completed,71.9,95.1,23.2,2023-12-29
+OPT0023,Hong Kong -> Halifax,Hong Kong,Halifax,Transshipment,Singapore,1,30,2915.41,ONE,Direct,None,0,20,2155.23,ZIM,10,760.18,23,209809.68,No,In Progress,74.4,95.8,21.4,2023-01-26
+OPT0024,Shenzhen -> Seattle,Shenzhen,Seattle,Transshipment,Salalah,1,30,2382.7,Hapag-Lloyd,Direct,None,0,22,2936.0,Yang Ming,8,-553.3,42,0,Yes,Pending,73.9,98.8,24.9,2024-03-20
+OPT0025,Busan -> Miami,Busan,Miami,Transshipment,Singapore,1,36,1166.95,MSC,Direct,None,0,24,2155.23,ZIM,12,-988.28,18,0,No,In Progress,66.0,80.6,14.6,2024-01-17
+OPT0026,Ningbo -> Seattle,Ningbo,Seattle,Transshipment,Salalah,1,22,1259.62,ZIM,Direct,None,0,17,2936.0,Yang Ming,5,-1676.38,36,0,No,Completed,63.5,78.2,14.7,2024-01-22
+OPT0027,Hamburg -> Halifax,Hamburg,Halifax,Transshipment,Salalah,1,35,1257.33,Evergreen,Direct,None,0,27,3075.53,CMA CGM,8,-1818.2,31,0,Yes,In Progress,59.5,80.2,20.7,2023-08-22
+OPT0028,Singapore -> Chicago,Singapore,Chicago,Transshipment,Hong Kong,1,28,2265.28,HMM,Direct,None,0,20,2155.23,ZIM,8,110.05,7,9244.2,Yes,Completed,58.8,81.7,22.9,2023-12-01
+OPT0029,Ningbo -> Miami,Ningbo,Miami,Transshipment,Tanjung Pelepas + Colombo,2,26,1552.93,MSC,Direct,None,0,21,2936.0,Yang Ming,5,-1383.07,30,0,Yes,Completed,70.3,90.5,20.2,2023-08-28
+OPT0030,Colombo -> Seattle,Colombo,Seattle,Transshipment,Singapore,1,42,1520.93,COSCO,Direct,None,0,32,1566.93,Hapag-Lloyd,10,-46.0,17,0,No,Completed,55.4,72.1,16.7,2023-06-03
