@@ -98,9 +98,9 @@ Customers without filed contracts face last-minute booking failures and premium 
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    freight_performance_db                        │
+│                    freight_performance_db                       │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
+│                                                                 │
 │   carriers (10)          routes_fixed (60)                      │
 │       │                       │                                 │
 │       └──────────────────┐    │                                 │
@@ -113,7 +113,7 @@ Customers without filed contracts face last-minute booking failures and premium 
 │                    ▼                                            │
 │             customers (50)                                      │
 │                                                                 │
-│   route_optimization_fixed (30) ← The Solution Table           │
+│   route_optimization_fixed (30) ← The Solution Table            │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
