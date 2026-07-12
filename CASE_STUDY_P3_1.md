@@ -1,6 +1,6 @@
 # 🌐 Case Study: Global Freight Performance & Customer Impact Analytics
 
-**Author:** Jaspreet Singh | Ocean Import Coordinator | CEVA Logistics — Greater Toronto Area
+**Author:** Jaspreet Singh | CEVA Logistics — Greater Toronto Area
 **Tools:** MySQL · Tableau Public · GitHub
 **Dataset:** 7 relational tables | 7,590 rows | 2022–2024
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/jaspreet.singh5400/viz/GlobalFreightPerformanceCustomerImpactAnalytics/GlobalFreightPerformanceCustomerImpact20222024)
