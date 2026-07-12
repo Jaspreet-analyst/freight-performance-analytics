@@ -217,7 +217,7 @@ freight-performance-analytics/
 - [x] Write Level 1 queries — route and carrier performance
 - [x] Write Level 2 queries — customer impact and churn risk
 - [x] Write Level 3 queries — window functions and optimization
-- [ ] Build Tableau dashboard — 3 pages
+- [x] Build Tableau dashboard — 3 pages
 - [ ] Write case study
 
 ---
@@ -244,7 +244,7 @@ CEVA Logistics | Greater Toronto Area
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaspreet-analyst)
 
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jaspreet.singh5400/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jaspreet.singh5400/viz/GlobalFreightPerformanceCustomerImpactAnalytics/GlobalFreightPerformanceCustomerImpact20222024)
 
 </td>
 </tr>
